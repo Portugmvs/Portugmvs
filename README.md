@@ -7,11 +7,13 @@
 
 - 🔭 I’m currently working on **Small projects**
 
+- 🔭 I’m currently maintaining Multiversus-archive
+
 - 🌱 I’m currently learning **Websockets**
 
 - 🤝 I’m looking for help with **any project**
 
-- 📝 I regularly write articles on [my twitter acc @portugmv](my twitter acc @portugmv)
+- 📝 I regularly write articles on [my twitter acc @portugmv]
 
 - 💬 Ask me about **idk**
 
